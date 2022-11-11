@@ -5,8 +5,17 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.1.5**
 
-# **Version 1.1.4**
+#### What's New
+
+- N/A
+
+#### Bug Fixes
+
+- Remove landscape orientation
+
+## **Version 1.1.4**
 
 #### What's New
 
