@@ -6,7 +6,18 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.1.3**
+# **Version 1.1.4**
+
+#### What's New
+
+- Design Improvements.
+- Performance Improvements.
+
+#### Bug Fixes
+
+- N/A
+
+## **Version 1.1.3**
 
 #### What's New
 
