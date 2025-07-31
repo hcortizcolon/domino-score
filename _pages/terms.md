@@ -6,7 +6,7 @@ include_in_header: false
 
 # Domino Score – Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 07/30/2025
 
 Welcome to **Domino Score**, a mobile application ("App") developed to help you keep score while playing dominoes with friends and family. These Terms and Conditions ("Terms") govern your use of the App and any related services, including any subscriptions or in-app purchases. By downloading, accessing, or using the App, you agree to these Terms.
 
